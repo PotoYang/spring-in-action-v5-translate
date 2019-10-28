@@ -1,13 +1,13 @@
 # Spring 实战第五版中文翻译
 
-| 章节 | 翻译人 |
+| 章节 | 完成度 |
 | --- | --- |
-| Part 1 - Foundational Spring | |
-| 1 - Getting started with Spring | |
-| 2 - Developing web application | |
-| 3 - Working with data | |
-| 4 - Securing Spring | |
-| 5 - Working with configuration properties | |
+| Part 1 - Foundational Spring | 完成 |
+| 1 - Getting started with Spring | 完成 |
+| 2 - Developing web application | 完成 |
+| 3 - Working with data | 完成 |
+| 4 - Securing Spring |  |
+| 5 - Working with configuration properties |  |
 | Part 2 - Integrated Spring | |
 | 6 - Creating REST service | |
 | 7 - Consuming REST service | |
