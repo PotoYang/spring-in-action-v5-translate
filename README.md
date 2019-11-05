@@ -6,11 +6,11 @@
 | 1 - Getting started with Spring | 完成 |
 | 2 - Developing web application | 完成 |
 | 3 - Working with data | 完成 |
-| 4 - Securing Spring |  |
-| 5 - Working with configuration properties |  |
-| Part 2 - Integrated Spring | |
-| 6 - Creating REST service | |
-| 7 - Consuming REST service | |
+| 4 - Securing Spring | 完成 |
+| 5 - Working with configuration properties | 完成 |
+| Part 2 - Integrated Spring | 完成 |
+| 6 - Creating REST service | 完成 |
+| 7 - Consuming REST service | 完成 |
 | 8 - Sending message asynchronously | |
 | 9 - Integrating Spring | |
 | Part3 - Reactive Spring | |
