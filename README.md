@@ -11,7 +11,7 @@
 | Part 2 - Integrated Spring | 完成 |
 | 6 - Creating REST service | 完成 |
 | 7 - Consuming REST service | 完成 |
-| 8 - Sending message asynchronously | |
+| 8 - Sending message asynchronously | 完成 |
 | 9 - Integrating Spring | |
 | Part3 - Reactive Spring | |
 | 10 - Introducing Reactor | |
