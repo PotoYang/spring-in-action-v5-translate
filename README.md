@@ -12,7 +12,7 @@
 | 6 - Creating REST service | 完成 |
 | 7 - Consuming REST service | 完成 |
 | 8 - Sending message asynchronously | 完成 |
-| 9 - Integrating Spring | |
+| 9 - Integrating Spring | 进行中 |
 | Part3 - Reactive Spring | |
 | 10 - Introducing Reactor | |
 | 11 - Developing reactive APIs | |
