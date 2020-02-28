@@ -12,9 +12,9 @@
 | 6 - Creating REST service | 完成 |
 | 7 - Consuming REST service | 完成 |
 | 8 - Sending message asynchronously | 完成 |
-| 9 - Integrating Spring | 进行中 |
-| Part3 - Reactive Spring | |
-| 10 - Introducing Reactor | |
+| 9 - Integrating Spring | 完成 |
+| Part3 - Reactive Spring | 完成 |
+| 10 - Introducing Reactor | 进行中 |
 | 11 - Developing reactive APIs | |
 | 12 - Persisting data reactively | |
 | Part 4 - Cloud-native Spring | |
@@ -26,3 +26,6 @@
 | 17 - Administering Spring | |
 | 18 - Monitoring Spring with JMX | |
 | 19 - Deploying Spring | |
+
+GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
+
