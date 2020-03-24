@@ -1,7 +1,7 @@
 # Spring 实战第五版中文翻译
 
 | 章节 | 完成度 |
-| --- | --- |
+| :--- | :--- |
 | Part 1 - Foundational Spring | 完成 |
 | 1 - Getting started with Spring | 完成 |
 | 2 - Developing web application | 完成 |
@@ -15,17 +15,17 @@
 | 9 - Integrating Spring | 完成 |
 | Part3 - Reactive Spring | 完成 |
 | 10 - Introducing Reactor | 进行中 |
-| 11 - Developing reactive APIs | |
-| 12 - Persisting data reactively | |
-| Part 4 - Cloud-native Spring | |
-| 13 - Discovering services | |
-| 14 - Managing configuration | |
-| 15 - Handling failure and latency | |
-| Part 5 - Deployed Spring | |
-| 16 - Working with Spring Boot Actuator | |
-| 17 - Administering Spring | |
-| 18 - Monitoring Spring with JMX | |
-| 19 - Deploying Spring | |
+| 11 - Developing reactive APIs |  |
+| 12 - Persisting data reactively |  |
+| Part 4 - Cloud-native Spring |  |
+| 13 - Discovering services |  |
+| 14 - Managing configuration |  |
+| 15 - Handling failure and latency |  |
+| Part 5 - Deployed Spring |  |
+| 16 - Working with Spring Boot Actuator |  |
+| 17 - Administering Spring |  |
+| 18 - Monitoring Spring with JMX |  |
+| 19 - Deploying Spring |  |
 
 GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
 
