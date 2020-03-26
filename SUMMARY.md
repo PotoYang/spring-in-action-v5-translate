@@ -14,7 +14,7 @@
     * [1.3.4 构建并运行应用程序](di-1-zhang-spring-ru-men/1.3-bian-xie-spring-ying-yong-cheng-xu/1.3.4-gou-jian-bing-yun-hang-ying-yong-cheng-xu.md)
     * [1.3.5 了解 Spring Boot DevTools](di-1-zhang-spring-ru-men/1.3-bian-xie-spring-ying-yong-cheng-xu/1.3.5-le-jie-spring-boot-devtools.md)
     * [1.3.6 回顾](di-1-zhang-spring-ru-men/1.3-bian-xie-spring-ying-yong-cheng-xu/1.3.6-hui-gu.md)
-  * [1.4	俯瞰 Spring 风景线](di-1-zhang-spring-ru-men/1.4-fu-kan-spring-feng-jing-xian/README.md)
+  * [1.4    俯瞰 Spring 风景线](di-1-zhang-spring-ru-men/1.4-fu-kan-spring-feng-jing-xian/README.md)
     * [1.4.1 Spring 核心框架](di-1-zhang-spring-ru-men/1.4-fu-kan-spring-feng-jing-xian/1.4.1-spring-he-xin-kuang-jia.md)
     * [1.4.2 Spring Boot](di-1-zhang-spring-ru-men/1.4-fu-kan-spring-feng-jing-xian/1.4.2-spring-boot.md)
     * [1.4.3 Spring Data](di-1-zhang-spring-ru-men/1.4-fu-kan-spring-feng-jing-xian/1.4.3-spring-data.md)
@@ -140,4 +140,9 @@
   * [10.2 Reactor](di-10-zhang-reactor-jie-shao/10.2-reactor/README.md)
     * [10.2.1 图解响应式流](di-10-zhang-reactor-jie-shao/10.2-reactor/10.2.1-tu-jie-xiang-ying-shi-liu.md)
     * [10.2.2 添加 Reactor 依赖](di-10-zhang-reactor-jie-shao/10.2-reactor/10.2.2-tian-jia-reactor-yi-lai.md)
+  * [10.3 通用响应式操作实战](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/README.md)
+    * [10.3.1 创建响应式类型](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.1-chuang-jian-xiang-ying-shi-lei-xing.md)
+    * [10.3.2 响应式类型结合](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.2-xiang-ying-shi-lei-xing-jie-he.md)
+    * [10.3.3 转换和过滤响应式流](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.3-zhuan-huan-he-guo-lv-xiang-ying-shi-liu.md)
+    * [10.3.4 对反应类型执行逻辑操作](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.4-dui-fan-ying-lei-xing-zhi-hang-luo-ji-cao-zuo.md)
 
