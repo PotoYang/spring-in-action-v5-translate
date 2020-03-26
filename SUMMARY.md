@@ -145,4 +145,5 @@
     * [10.3.2 响应式类型结合](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.2-xiang-ying-shi-lei-xing-jie-he.md)
     * [10.3.3 转换和过滤响应式流](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.3-zhuan-huan-he-guo-lv-xiang-ying-shi-liu.md)
     * [10.3.4 对反应类型执行逻辑操作](di-10-zhang-reactor-jie-shao/10.3-tong-yong-xiang-ying-shi-cao-zuo-shi-zhan/10.3.4-dui-fan-ying-lei-xing-zhi-hang-luo-ji-cao-zuo.md)
+  * [10.4 总结](di-10-zhang-reactor-jie-shao/10.4-zong-jie.md)
 
