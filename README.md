@@ -18,7 +18,7 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 
  **要是您觉得不错，打赏一下：** 
 
-![打赏码](E:\Document\spring-in-action-v5-translate\打赏码.png)
+![SponsorQR](https://github.com/PotoYang/spring-in-action-v5-translate/blob/master/SponsorQR.png)
 
 **进度：**
 
