@@ -1,4 +1,4 @@
-# Spring 实战\(第 5 版)
+# Spring 实战\(第 5 版\)
 
 在与 Spring 工作了近 15 年后，已经编写了这本书的 5 个版本（更不用说《Spring Boot 实战》了），你可能会认为，在为这本书撰写序言时，很难想出一些有关 Spring 的令人兴奋的新内容。但事实远非如此！
 
@@ -10,15 +10,13 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 
 更重要的是，当开发人员希望将他们的单个应用程序分解成离散的微服务时，Spring Cloud 提供了一些工具，使配置和发现微服务变得容易，并且增强了它们的功能，使它们对失败更有弹性。
 
-很高兴地说，这个第五版的 《Spring 实战》涵盖了所有这一切，甚至更多！如果你是一个经验丰富的 Spring 老手，*《Spring 实战》第五版* 将是你的指南，Spring 中一切新的都有提供。另一方面，如果你是 Spring 新手，那么现在是开始行动的最佳时机，前几章将很快让你开始行动！
+很高兴地说，这个第五版的 《Spring 实战》涵盖了所有这一切，甚至更多！如果你是一个经验丰富的 Spring 老手，_《Spring 实战》第五版_ 将是你的指南，Spring 中一切新的都有提供。另一方面，如果你是 Spring 新手，那么现在是开始行动的最佳时机，前几章将很快让你开始行动！
 
 与 Spring 合作的 15 年是激动人心的。现在我已经完成了《Spring 实战》第五版，我渴望与你们分享这份兴奋！
 
+**要是您觉得不错，打赏一下：**
 
-
- **要是您觉得不错，打赏一下：** 
-
-![SponsorQR](https://github.com/PotoYang/spring-in-action-v5-translate/blob/master/SponsorQR.png)
+![](.gitbook/assets/wu-biao-ti.png)
 
 **进度：**
 
@@ -50,3 +48,4 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 | 19 - Deploying Spring |  |
 
 GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
+
