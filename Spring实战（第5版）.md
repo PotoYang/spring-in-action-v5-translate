@@ -1,4 +1,4 @@
-# Spring 实战（第 5 版）
+# Spring 实战\(第 5 版)
 
 在与 Spring 工作了近 15 年后，已经编写了这本书的 5 个版本（更不用说《Spring Boot 实战》了），你可能会认为，在为这本书撰写序言时，很难想出一些有关 Spring 的令人兴奋的新内容。但事实远非如此！
 
@@ -19,3 +19,34 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
  **要是您觉得不错，打赏一下：** 
 
 ![打赏码](E:\Document\spring-in-action-v5-translate\打赏码.png)
+
+**进度：**
+
+| 章节                                      | 完成度 |
+| :---------------------------------------- | :----- |
+| Part 1 - Foundational Spring              | 完成   |
+| 1 - Getting started with Spring           | 完成   |
+| 2 - Developing web application            | 完成   |
+| 3 - Working with data                     | 完成   |
+| 4 - Securing Spring                       | 完成   |
+| 5 - Working with configuration properties | 完成   |
+| Part 2 - Integrated Spring                | 完成   |
+| 6 - Creating REST service                 | 完成   |
+| 7 - Consuming REST service                | 完成   |
+| 8 - Sending message asynchronously        | 完成   |
+| 9 - Integrating Spring                    | 完成   |
+| Part3 - Reactive Spring                   | 完成   |
+| 10 - Introducing Reactor                  | 完成   |
+| 11 - Developing reactive APIs             | 进行中 |
+| 12 - Persisting data reactively           |        |
+| Part 4 - Cloud-native Spring              |        |
+| 13 - Discovering services                 |        |
+| 14 - Managing configuration               |        |
+| 15 - Handling failure and latency         |        |
+| Part 5 - Deployed Spring                  |        |
+| 16 - Working with Spring Boot Actuator    |        |
+| 17 - Administering Spring                 |        |
+| 18 - Monitoring Spring with JMX           |        |
+| 19 - Deploying Spring                     |        |
+
+GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
