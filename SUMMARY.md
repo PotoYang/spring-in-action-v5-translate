@@ -149,7 +149,7 @@
 * [第 11 章 开发响应式 API](di-11-zhang-kai-fa-xiang-ying-shi-api/README.md)
   * [11.1 使用 Spring WebFlux](di-11-zhang-kai-fa-xiang-ying-shi-api/11.1-shi-yong-spring-webflux/README.md)
     * [11.1.1 Spring WebFlux 介绍](di-11-zhang-kai-fa-xiang-ying-shi-api/11.1-shi-yong-spring-webflux/11.1.1-spring-webflux-jie-shao.md)
-    * [11.1.2 编写响应式 controller](di-11-zhang-kai-fa-xiang-ying-shi-api/11.1-shi-yong-spring-webflux/11.1.2-bian-xie-xiang-ying-shi-controller.md)
+    * [11.1.2 编写响应式 Controller](di-11-zhang-kai-fa-xiang-ying-shi-api/11.1-shi-yong-spring-webflux/11.1.2-bian-xie-xiang-ying-shi-controller.md)
   * [11.2 定义函数式请求处理程序](di-11-zhang-kai-fa-xiang-ying-shi-api/11.2-ding-yi-han-shu-shi-qing-qiu-chu-li-cheng-xu.md)
   * [11.3 测试响应式接口](di-11-zhang-kai-fa-xiang-ying-shi-api/11.3-ce-shi-xiang-ying-shi-jie-kou.md)
   * [11.4 响应式消费 REST API](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api.md)
