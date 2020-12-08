@@ -85,5 +85,5 @@ private Ingredient mapRowToIngredient(ResultSet rs, int rowNum)
 
 程序清单 3.2 中的代码显然比程序清单 3.1 中的原始 JDBC 示例简单得多；没有创建任何语句或连接。而且，在方法完成之后，不会对那些对象进行任何清理。最后，这样做不会存在任何在 catch 块中不能处理的异常。剩下的代码只专注于执行查询（调用 JdbcTemplate 的 queryForObject\(\) 方法）并将结果映射到 Ingredient 对象（在 mapRowToIngredient\(\) 方法中）。
 
-程序清单 3.2 中的代码是使用 JdbcTemplate 在 Taco Cloud 应用程序中持久化和读取数据所需要做的工作的一个片段。让我们采取下一步必要的步骤来为应用程序配备 JDBC 持久话。我们将首先对域对象进行一些调整。
+程序清单 3.2 中的代码是使用 JdbcTemplate 在 Taco Cloud 应用程序中持久化和读取数据所需要做的工作的一个片段。让我们采取下一步必要的步骤来为应用程序配备 JDBC 持久化。我们将首先对域对象进行一些调整。
 
