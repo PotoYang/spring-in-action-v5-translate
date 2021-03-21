@@ -12,7 +12,7 @@
 
 这些组件之间的关系如图 2.1 所示。
 
-![&#x56FE; 2.1 &#x5178;&#x578B; Spring MVC &#x8BF7;&#x6C42;&#x6D41;&#x7A0B;](../../.gitbook/assets/tu-2.1-dian-xing-spring-mvc-qing-qiu-liu-cheng.jpg)
+![&#x56FE; 2.1 &#x5178;&#x578B; Spring MVC &#x8BF7;&#x6C42;&#x6D41;&#x7A0B;](../../.gitbook/assets/图%202.1%20典型%20Spring%20MVC%20请求流程.jpg)
 
 由于本章主要讨论 Spring 的 web 框架，所以我们将把数据库的内容推迟到第 3 章。现在，控制器将单独负责向视图提供组件。在第 3 章中，将重写控制器，使其与从数据库中获取配料数据的存储库进行协作。
 
