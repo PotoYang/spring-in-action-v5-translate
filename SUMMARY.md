@@ -158,7 +158,7 @@
   * [11.4 响应式消费 REST API](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/README.md)
     * [11.4.1 通过 GET 方式获取资源](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/11.4.1-tong-guo-get-fang-shi-huo-qu-zi-yuan.md)
     * [11.4.2 通过 POST 方式发送资源](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/11.4.2-tong-guo-post-fang-shi-fa-song-zi-yuan.md)
-    * [11.4.3 通过GET方式获取资源](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/11.4.3-tong-guo-get-fang-shi-huo-qu-zi-yuan.md)
+    * [11.4.3 删除资源](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/11.4.3-shan-chu-zi-yuan.md)
     * [11.4.4 处理请求错误](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/11.4.4-chu-li-qing-qiu-cuo-wu.md)
     * [11.4.5 请求转换](di-11-zhang-kai-fa-xiang-ying-shi-api/11.4-xiang-ying-shi-xiao-fei-rest-api/11.4.5-qing-qiu-zhuan-huan.md)
   * [11.5 保护响应式 web API](di-11-zhang-kai-fa-xiang-ying-shi-api/11.5-bao-hu-xiang-ying-shi-web-api/README.md)
