@@ -11,7 +11,7 @@ Spring Initializr 既是一个基于浏览器的 Web 应用程序，又是一个
 * 使用 Spring Boot 命令行接口从命令行创建
 * 使用 Spring Tool Suite 创建一个新项目的时候
 * 使用 IntelliJ IDEA 创建一个新项目的时候
-* 使用 NetBean 创建一个新项目的时候
+* 使用 NetBeans 创建一个新项目的时候
 
 我没有在本章中花费数页来讨论这些选项中的每一个，而是在附录中收集了这些详细信息。在本章以及整本书中，将展示如何使用 Spring Tool Suite 中对 Spring Initializr 的支持来创建一个新项目。
 
