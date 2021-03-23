@@ -2,7 +2,7 @@
 
 RabbitMQ 可以说是 AMQP 最优秀的实现，它提供了比 JMS 更高级的消息路由策略。JMS 消息使用接收方将从中检索它们的目的地的名称来寻址，而 AMQP 消息使用交换器的名称和路由键来寻址，它们与接收方正在监听的队列解耦。交换器和队列之间的这种关系如图 8.1 所示。
 
-![&#x56FE; 8.1 &#x53D1;&#x9001;&#x5230; RabbitMQ &#x4EA4;&#x6362;&#x5668;&#x7684;&#x6D88;&#x606F;&#x88AB;&#x8DEF;&#x7531;&#x5230;&#x591A;&#x4E2A;&#x961F;&#x5217;](../../.gitbook/assets/tu-8.1-fa-song-dao-rabbitmq-jiao-huan-qi-de-xiao-xi-bei-lu-you-dao-duo-ge-dui-lie.jpg)
+![&#x56FE; 8.1 &#x53D1;&#x9001;&#x5230; RabbitMQ &#x4EA4;&#x6362;&#x5668;&#x7684;&#x6D88;&#x606F;&#x88AB;&#x8DEF;&#x7531;&#x5230;&#x591A;&#x4E2A;&#x961F;&#x5217;](../../.gitbook/assets/图%208.1%20发送到%20RabbitMQ%20交换器的消息被路由到多个队列.jpg)
 
 当消息到达 RabbitMQ broker 时，它将转到它所寻址的交换器。交换器负责将其路由到一个或多个队列，具体取决于交换器的类型、交换器与队列之间的绑定以及消息的路由键的值。
 
