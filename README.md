@@ -36,9 +36,9 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 | Part3 - Reactive Spring | 完成 |
 | 10 - Introducing Reactor | 完成 |
 | 11 - Developing reactive APIs | 完成 |
-| 12 - Persisting data reactively | 进行中 |
-| Part 4 - Cloud-native Spring |  |
-| 13 - Discovering services |  |
+| 12 - Persisting data reactively | 完成 |
+| Part 4 - Cloud-native Spring | 进行中 |
+| 13 - Discovering services | 进行中 |
 | 14 - Managing configuration |  |
 | 15 - Handling failure and latency |  |
 | Part 5 - Deployed Spring |  |
