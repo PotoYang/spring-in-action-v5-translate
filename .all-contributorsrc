@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "LeonLi0102",
+      "name": "Zhigang Li",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6302034?v=4",
+      "profile": "https://github.com/LeonLi0102",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "alexdyysp",
+      "name": "Alex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26864312?v=4",
+      "profile": "https://github.com/alexdyysp",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "spring-in-action-v5-translate",
+  "projectOwner": "PotoYang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

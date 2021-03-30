@@ -8,7 +8,7 @@ Kafka topic 被复制到集群中的所有 broker 中。集群中的每个节点
 
 更进一步说，每个 topic 可以分成多个分区。在这种情况下，集群中的每个节点都是一个 topic 的一个或多个分区的 leader，但不是整个 topic 的 leader。该 topic 的职责由所有节点分担。图 8.2 说明了这是如何工作的。
 
-![&#x56FE; 8.2 Kafka &#x96C6;&#x7FA4;&#x7531;&#x591A;&#x4E2A; broker &#x7EC4;&#x6210;&#xFF0C;&#x6BCF;&#x4E00;&#x4E2A;&#x90FD;&#x4F5C;&#x4E3A; topic &#x5206;&#x533A;&#x7684; leader](../../.gitbook/assets/tu-8.2.jpg)
+![&#x56FE; 8.2 Kafka &#x96C6;&#x7FA4;&#x7531;&#x591A;&#x4E2A; broker &#x7EC4;&#x6210;&#xFF0C;&#x6BCF;&#x4E00;&#x4E2A;&#x90FD;&#x4F5C;&#x4E3A; topic &#x5206;&#x533A;&#x7684; leader](../../.gitbook/assets/图%208.2.jpg)
 
 由于 Kafka 独特的构建风格，我鼓励你在迪伦·斯科特（Dylan Scott，2017）的_《Kafka 实战》_中阅读更多关于它的内容。出于我们的目的，我们将重点讨论如何使用 Spring 向 Kafka 发送和接收消息。
 
