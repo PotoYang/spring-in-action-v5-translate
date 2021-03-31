@@ -3,4 +3,4 @@ rvm:
   - 2.6
 before_install:
   - gem install mdl
-script: mdl di-1-zhang-spring-ru-men/ -r ~MD013,~MD033
+script: mdl di-1-zhang-spring-ru-men/ -r ~MD013,~MD033,~MD009,~MD036,~MD031
