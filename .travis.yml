@@ -1,9 +1,6 @@
 language: ruby
 rvm:
-  - 2.5
   - 2.6
-  - jruby
-  - truffleruby
 before_install:
   - gem install mdl
-script: mdl di-1-zhang-spring-ru-men/
+script: mdl di-1-zhang-spring-ru-men/ -r ~MD013,MD033
