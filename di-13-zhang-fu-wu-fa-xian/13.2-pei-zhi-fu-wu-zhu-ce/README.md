@@ -73,7 +73,7 @@ Eureka 充当微服务应用程序中，所有服务的中心注册表。Eureka 
 public class ServiceRegistryApplication {
 
     public static void main(String[] args) {
-    SpringApplication.run(ServiceRegistryApplication.class, args);
+        SpringApplication.run(ServiceRegistryApplication.class, args);
     }
 
 }
@@ -81,9 +81,7 @@ public class ServiceRegistryApplication {
 
 这样就可以了！现在启动应用程序，将会运行 Eureka 注册服务，并监听 8080 端口。使用浏览器访问 [http://localhost:8080](http://localhost:8080)，您将看到如图 13.2 所示的界面。
 
-
 ![&#x56FE; 13.2 Eureka &#x4EEA;&#x8868;&#x76D8;&#x9875;&#x9762;](../../.gitbook/assets/13.2.png)
-
 
 Eureka 仪表盘信息很丰富，可以告诉您有哪些服务实例在 Eureka 上注册了。在使用注册中心的服务时，您会发现自己需要经常查看此 UI，以确保服务按照预期注册了。当然，到现在为止，我们还没有任何服务进行过注册，因此没有可用实例的任何信息。
 
@@ -97,7 +95,3 @@ Eureka 还提供了一个 REST API，通过 API 服务可以自行注册，并�
 ```
 
 您可能已经注意到，Eureka 每隔 30 秒左右在其日志中记录了几个异常。别担心！Eureka 就是这样运行的。这些异常只是表示，您尚未完全配置好服务注册中心。让我们加上一些配置属性使这些异常消失吧。
-
-
-
-
