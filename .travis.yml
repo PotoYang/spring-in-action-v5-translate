@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.6
+before_install:
+  - gem install mdl
+env:
+  - TESTFOLDER=di-1-zhang-spring-ru-men/
+  - TESTFOLDER=di-13-zhang-fu-wu-fa-xian/
+script: mdl $TESTFOLDER -r ~MD013,~MD033,~MD009,~MD036,~MD031,~MD046
