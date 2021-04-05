@@ -1,7 +1,5 @@
 # Spring 实战\(第 5 版\)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](./#contributors-) 
-
 在与 Spring 工作了近 15 年后，已经编写了这本书的 5 个版本（更不用说《Spring Boot 实战》了），你可能会认为，在为这本书撰写序言时，很难想出一些有关 Spring 的令人兴奋的新内容。但事实远非如此！
 
 Spring 生态系统中的每个 Spring 版本、Spring Boot 和所有其他项目都释放了一些新的惊人功能，重新点燃了开发应用程序的乐趣。随着 Spring 5.0 发行版和 Spring Boot 2.0 发行版的出现，Spring 到达了一个具有里程碑意义的节点，可以享受的 Spring 越来越多，因此编写另一版 《Spring 实战》是不需要动脑筋的事情。
@@ -54,14 +52,4 @@ GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoy
 Github 地址：[https://github.com/PotoYang/spring-in-action-v5-translate](https://github.com/PotoYang/spring-in-action-v5-translate)
 
 源码地址：[spring-in-action-5-samples-master](https://github.com/PotoYang/spring-in-action-v5-translate/tree/master/spring-in-action-5-samples-master)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people \([emoji key](https://allcontributors.org/docs/en/emoji-key)\):
-
-| [![](https://avatars.githubusercontent.com/u/6302034?v=4?s=100) **Zhigang Li**](https://github.com/LeonLi0102) [🌍](./#translation-LeonLi0102) | [![](https://avatars.githubusercontent.com/u/26864312?v=4?s=100) **Alex**](https://github.com/alexdyysp) [🌍](./#translation-alexdyysp) |
-| :--- | :--- |
-
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
