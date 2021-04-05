@@ -1,7 +1,6 @@
 # Spring 实战\(第 5 版\)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](./#contributors-) 
 
 在与 Spring 工作了近 15 年后，已经编写了这本书的 5 个版本（更不用说《Spring Boot 实战》了），你可能会认为，在为这本书撰写序言时，很难想出一些有关 Spring 的令人兴奋的新内容。但事实远非如此！
 
@@ -56,24 +55,13 @@ Github 地址：[https://github.com/PotoYang/spring-in-action-v5-translate](http
 
 源码地址：[spring-in-action-5-samples-master](https://github.com/PotoYang/spring-in-action-v5-translate/tree/master/spring-in-action-5-samples-master)
 
-
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people \([emoji key](https://allcontributors.org/docs/en/emoji-key)\):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/LeonLi0102"><img src="https://avatars.githubusercontent.com/u/6302034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhigang Li</b></sub></a><br /><a href="#translation-LeonLi0102" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/alexdyysp"><img src="https://avatars.githubusercontent.com/u/26864312?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex</b></sub></a><br /><a href="#translation-alexdyysp" title="Translation">🌍</a></td>
-  </tr>
-</table>
+| [![](https://avatars.githubusercontent.com/u/6302034?v=4?s=100) **Zhigang Li**](https://github.com/LeonLi0102) [🌍](./#translation-LeonLi0102) | [![](https://avatars.githubusercontent.com/u/26864312?v=4?s=100) **Alex**](https://github.com/alexdyysp) [🌍](./#translation-alexdyysp) |
+| :--- | :--- |
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
