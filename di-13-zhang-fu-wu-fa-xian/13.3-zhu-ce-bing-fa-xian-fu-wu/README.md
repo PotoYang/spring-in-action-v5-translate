@@ -2,7 +2,7 @@
 
 除非有服务在 Eureka 注册了，否则 Eureka 服务的注册表是没什么用的。如果您的服务将被其他服务发现和使用，那么您需要使它们成为 Eureka 注册服务的客户端。要使应用程序（任何应用程序，假设是微服务）成为 Eureka 注册服务的客户端，必须做的是，将 Eureka 客户端依赖项添加到应用程序构建配置中：
 
-```xml
+```markup
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
@@ -11,7 +11,7 @@
 
 与 Eureka starter 服务依赖项一样，您还需要在依赖管理中设置 Spring Cloud 版本属性：
 
-```xml
+```markup
 <properties>
    ...
    <spring-cloud.version>Finchley.SR1</spring-cloud.version>

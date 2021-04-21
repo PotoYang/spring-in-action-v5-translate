@@ -1,7 +1,4 @@
 # Spring 实战\(第 5 版\)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 在与 Spring 工作了近 15 年后，已经编写了这本书的 5 个版本（更不用说《Spring Boot 实战》了），你可能会认为，在为这本书撰写序言时，很难想出一些有关 Spring 的令人兴奋的新内容。但事实远非如此！
 
@@ -40,9 +37,9 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 | 10 - Introducing Reactor | 完成 |
 | 11 - Developing reactive APIs | 完成 |
 | 12 - Persisting data reactively | 完成 |
-| Part 4 - Cloud-native Spring | 进行中 |
-| 13 - Discovering services | 进行中 |
-| 14 - Managing configuration |  |
+| Part 4 - Cloud-native Spring | 完成 |
+| 13 - Discovering services | 完成 |
+| 14 - Managing configuration | 进行中 |
 | 15 - Handling failure and latency |  |
 | Part 5 - Deployed Spring |  |
 | 16 - Working with Spring Boot Actuator |  |
@@ -56,24 +53,3 @@ Github 地址：[https://github.com/PotoYang/spring-in-action-v5-translate](http
 
 源码地址：[spring-in-action-5-samples-master](https://github.com/PotoYang/spring-in-action-v5-translate/tree/master/spring-in-action-5-samples-master)
 
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/LeonLi0102"><img src="https://avatars.githubusercontent.com/u/6302034?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhigang Li</b></sub></a><br /><a href="#translation-LeonLi0102" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/alexdyysp"><img src="https://avatars.githubusercontent.com/u/26864312?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex</b></sub></a><br /><a href="#translation-alexdyysp" title="Translation">🌍</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

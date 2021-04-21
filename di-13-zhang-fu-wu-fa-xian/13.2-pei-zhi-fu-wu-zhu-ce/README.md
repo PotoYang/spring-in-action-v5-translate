@@ -20,7 +20,7 @@ Eureka 充当微服务应用程序中，所有服务的中心注册表。Eureka 
 
 在某个时候，另一个服务（在图 13.1 中称为 other-service）需要使用到某些服务（some-service）时，不是用硬编码的方式，调用以某个特定主机和端口代表的服务，而是在 Eureka 中通过名称查找服务。Eureka 回复它所知道的相关服务的所有实例信息。
 
-现在 othere-service  需要做出决定。它将使用哪个服务实例？如果服务都是等价的，那没什么关系。但是为了避免每次都选择同一实例，最好应用一些客户端负载均衡算法以分散请求。这是另一个 Netflix 项目 Ribbon 专门解决的问题。
+现在 othere-service 需要做出决定。它将使用哪个服务实例？如果服务都是等价的，那没什么关系。但是为了避免每次都选择同一实例，最好应用一些客户端负载均衡算法以分散请求。这是另一个 Netflix 项目 Ribbon 专门解决的问题。
 
 尽管 other-service 可能只负责查找和选择 some-service 的实例，但它也要依赖于 Ribbon。Ribbon 是客户端负载均衡器，用于对 some-service 进行选择。一旦 Ribbon 做出选择后，剩下的就是实际发送请求了。
 
@@ -34,16 +34,16 @@ Eureka 充当微服务应用程序中，所有服务的中心注册表。Eureka 
 
 要开始使用 Spring Cloud 和 Eureka，您需要创建一个全新的 Eureka 服务项目。最简单的方法是使用 Spring Initializr。不管您想给这个项目取个什么样的名字，我是倾向于把它命名为 service-registry。当需要选择 starter 依赖项时，只有一个工作：勾选名称为 Eureka Server 的复选框。创建新项目之后，Initializr 会为您提供一个 pom.xml 文件，文件中包含以下依赖关系：
 
-```xml
+```markup
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
 </dependency>
 ```
 
-在 pom.xml 中，您还将看到一个名为 `spring-cloud.version` 的属性，以及在 `<dependencyManagement>` 部分指定的 Spring Cloud 的版本。当我创建注册中心服务时，它引用了`Finchley.SR1` 版本  ：
+在 pom.xml 中，您还将看到一个名为 `spring-cloud.version` 的属性，以及在 `<dependencyManagement>` 部分指定的 Spring Cloud 的版本。当我创建注册中心服务时，它引用了`Finchley.SR1` 版本 ：
 
-```xml
+```markup
 <properties>
     ...
     <spring-cloud.version>Finchley.SR1</spring-cloud.version>
@@ -87,7 +87,7 @@ Eureka 仪表盘信息很丰富，可以告诉您有哪些服务实例在 Eureka
 
 Eureka 还提供了一个 REST API，通过 API 服务可以自行注册，并发现其他服务。您可能不会直接使用 REST API，但您会发现 `/eureka/apps` 接口很有用。它详细列出了所有注册的服务实例。此时，由于还没有注册过任何服务实例，所以会得到以下的返回信息。当您实际注册过服务以后，我们将在本章稍后的部分，重新查看这个接口的返回。
 
-```xml
+```markup
 <applications>
     <versions__delta>1</versions__delta>
     <apps__hashcode></apps__hashcode>
@@ -95,3 +95,4 @@ Eureka 还提供了一个 REST API，通过 API 服务可以自行注册，并�
 ```
 
 您可能已经注意到，Eureka 每隔 30 秒左右在其日志中记录了几个异常。别担心！Eureka 就是这样运行的。这些异常只是表示，您尚未完全配置好服务注册中心。让我们加上一些配置属性使这些异常消失吧。
+
