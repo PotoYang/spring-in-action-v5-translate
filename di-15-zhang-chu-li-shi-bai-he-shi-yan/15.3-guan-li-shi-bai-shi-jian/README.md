@@ -18,7 +18,7 @@ Hystrix 流由 Actuator 接口提供。我们将在第 16 章进一步讨论 Act
 
 Hystrix 流接口路径为 `/actuator/hystrix.stream` 。在默认情况下，大多数 Actuator 接口都是禁用的。如果您要启用 Hystrix 流的相关接口，需要在每个应用的 application.yml 中添加如下配置：
 
-```text
+```yaml
 management:
   endpoints:
     web:
