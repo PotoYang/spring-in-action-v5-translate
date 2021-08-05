@@ -1,2 +1,2 @@
-# 16.2 消费 Actuator 端点
+# 16.2 使用 Actuator 端点
 
