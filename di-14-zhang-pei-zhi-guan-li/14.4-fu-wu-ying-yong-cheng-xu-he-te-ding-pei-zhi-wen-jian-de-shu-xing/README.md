@@ -5,3 +5,4 @@
 从客户端的角度来看，使用特定于应用程序名称和特定于 profile 的配置，与不使用 Config Server 时没有太大区别。应用程序名称是通过设置 `spring.application.name` 属性来指定的（同样也是在 Eureka 中注册时用的名称）。并且可以通过设置 `spring.profiles.active` 属性指定当前激活的 profile（通常在环境变量 `SPRING_PROFILES_ACTIVE` 指定）。
 
 同样，为特定应用程序或 profile 提供配置服务时，Config Server 本身中也不需要做太多的工作。其实最重要的是，这些属性是如何在 Git 中存储的。
+
