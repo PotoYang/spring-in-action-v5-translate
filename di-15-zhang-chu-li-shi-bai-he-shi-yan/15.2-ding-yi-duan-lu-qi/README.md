@@ -2,7 +2,7 @@
 
 在声明断路器之前，您需要为服务添加 Spring Cloud Netflix Hystrix 的依赖。在 Maven pom.xml 中的依赖项如下所示：
 
-```xml
+```markup
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
@@ -11,7 +11,7 @@
 
 作为 Spring Cloud 组件的一部分，您还需要声明依赖管理。在我写这篇文章的时候，最新的发布版本为 Finchley.SR1。因此，Spring Cloud 的版本应该设置一下，以下条目应出现在 pom.xml 文件的 `<dependency-Management>` 部分：
 
-```xml
+```markup
 <properties>
   ...
   <spring-cloud.version>Finchley.SR1</spring-cloud.version>
@@ -32,7 +32,7 @@
 </dependencyManagement>
 ```
 
-> 注意，创建项目时在 Initializr 中也可以通过勾选 Hystrix 复选框来添加依赖。如果使用  Initializr 将 Hystrix 添加到项目中，则依赖管理部分会自动为您创建好。
+> 注意，创建项目时在 Initializr 中也可以通过勾选 Hystrix 复选框来添加依赖。如果使用 Initializr 将 Hystrix 添加到项目中，则依赖管理部分会自动为您创建好。
 
 有了 Hystrix 依赖，接下来需要做的就是启用 Hystrix。这通过对每个应用程序的主配置添加 `@EnableHystrix` 注解来实现。例如，要在 ingredient 服务中启用 Hystrix，您可以这样注解 IngredientServiceApplication 类：
 
@@ -93,6 +93,4 @@ return ingredients;
 现在，如果 `getAllIngredients()` 方法失败了，断路器将调用 `getDefaultIngredients()`，调用者将收到一个默认列表。
 
 您可能想知道降级方法本身是否有断路器。尽管上面的 `getDefaultIngredients()` 实现不会出什么问题，但有可能其他实现会有潜在的失败点。在这种情况下，您可以为 `getDefaultIngredients()` 添加 `@HystrixCommand`，并提供另一个降级方法。事实上，如果需要，您可以堆叠尽可能多的降级方法。唯一的限制是在降级的底部，必须有一个方法不发生故障且不再需要断路器的堆栈。
-
-
 

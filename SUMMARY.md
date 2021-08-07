@@ -221,7 +221,7 @@
   * [16.1 介绍 Actuator](di-16-zhang-shi-yong-springboot-actuator/16.1-jie-shao-actuator/README.md)
     * [16.1.1 配置 Actuator 基本路径](di-16-zhang-shi-yong-springboot-actuator/16.1-jie-shao-actuator/16.1.1-pei-zhi-actuator-ji-ben-lu-jing.md)
     * [16.1.2 启用和禁用 Actuator 端点](di-16-zhang-shi-yong-springboot-actuator/16.1-jie-shao-actuator/16.1.2-qi-yong-he-jin-yong-actuator-duan-dian.md)
-  * [16.2 消费 Actuator 端点](di-16-zhang-shi-yong-springboot-actuator/16.2-xiao-fei-actuator-duan-dian/README.md)
+  * [16.2 使用 Actuator 端点](di-16-zhang-shi-yong-springboot-actuator/16.2-xiao-fei-actuator-duan-dian/README.md)
     * [16.2.1 获取重要的应用程序信息](di-16-zhang-shi-yong-springboot-actuator/16.2-xiao-fei-actuator-duan-dian/16.2.1-huo-qu-zhong-yao-de-ying-yong-cheng-xu-xin-xi.md)
     * [16.2.2 查看配置详细信息](di-16-zhang-shi-yong-springboot-actuator/16.2-xiao-fei-actuator-duan-dian/16.2.2-cha-kan-pei-zhi-xiang-xi-xin-xi.md)
     * [16.2.3 查看应用程序活动](di-16-zhang-shi-yong-springboot-actuator/16.2-xiao-fei-actuator-duan-dian/16.2.3-cha-kan-ying-yong-cheng-xu-huo-dong.md)
