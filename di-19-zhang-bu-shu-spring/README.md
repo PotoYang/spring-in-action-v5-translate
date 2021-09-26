@@ -1,6 +1,7 @@
 # 第 19 章 部署 Spring
 
 本章内容
+
 * 将 Spring 应用程序构建为 WAR 或  JAR
 * 将 Spring 应用程序推送至 CloudFoundry
 * 使用 Docker 容器化部署 Spring 应用程序
@@ -14,3 +15,4 @@
 在本章中，我们将跨过开发 Spring 应用程序这一阶段，了解如何部署应用程序。虽然对于任何部署过基于 Java 应用程序的人来说，似乎太简单了。但 Spring Boot 以及 Spring 相关的项目有一些独特特性，您可以利用这些特性部署 Spring Boot 应用程序。
 
 事实上，与大多数 Java web 应用程序不同，因为 Java web 应用程序通常将应用程序作为 WAR 文件部署到服务器。Spring Boot 提供了几个部署选项。在我们了解如何部署 Spring Boot 应用程序前，让我们先看看有哪些部署选项可供您选择。
+

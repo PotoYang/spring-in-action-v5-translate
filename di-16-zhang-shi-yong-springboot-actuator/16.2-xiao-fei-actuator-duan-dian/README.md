@@ -9,25 +9,25 @@ Actuator 可以通过表 16.1 中列出的 HTTP 端点，提供一个有关正�
 ```bash
 $ curl localhost:8081/actuator
 {
-	"_links": {
-		"self": {
-			"href": "http://localhost:8081/actuator",
-			"templated": false
-		},
-		"auditevents": {
-			"href": "http://localhost:8081/actuator/auditevents",
-			"templated": false
-		},
-		"beans": {
-			"href": "http://localhost:8081/actuator/beans",
-			"templated": false
-		},
-		"health": {
-			"href": "http://localhost:8081/actuator/health",
-			"templated": false
-		}
-	},
-	...
+    "_links": {
+        "self": {
+            "href": "http://localhost:8081/actuator",
+            "templated": false
+        },
+        "auditevents": {
+            "href": "http://localhost:8081/actuator/auditevents",
+            "templated": false
+        },
+        "beans": {
+            "href": "http://localhost:8081/actuator/beans",
+            "templated": false
+        },
+        "health": {
+            "href": "http://localhost:8081/actuator/health",
+            "templated": false
+        }
+    },
+    ...
 }
 ```
 

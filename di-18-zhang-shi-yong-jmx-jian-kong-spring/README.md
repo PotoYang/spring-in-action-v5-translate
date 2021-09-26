@@ -11,3 +11,4 @@
 JMX 在 Spring Boot 应用程序中默认自动启用，这导致所有 Actuator 端点都成为了 MBean。这为我们提供了很好的示例，可以将 Spring 应用程序上下文中的任何其他 bean 公开为 MBean。
 
 我们开始探索 Spring 和 JMX，先看看 Actuaotr 端点是如何暴露为 MBean 的。
+
