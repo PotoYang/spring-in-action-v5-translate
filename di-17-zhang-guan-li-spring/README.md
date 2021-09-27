@@ -11,6 +11,3 @@
 
 在上一章中，我们讨论了 Spring Boot Actuator。这些 HTTP 端点返回 JSON 响应数据，可以任意使用它们。在本章中，我们将了解如何创建底层基于 Actuator 的前端用户界面（UI）。使 Actuator 更易于使用，且可以实时捕获难以直接从 Actuator 获取的数据。
 
-
-
-
