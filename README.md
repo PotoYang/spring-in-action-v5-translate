@@ -45,7 +45,7 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 | 16 - Working with Spring Boot Actuator | 完成 |
 | 17 - Administering Spring | 完成 |
 | 18 - Monitoring Spring with JMX | 完成 |
-| 19 - Deploying Spring | 进行中 |
+| 19 - Deploying Spring | 完成 |
 
 GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
 
