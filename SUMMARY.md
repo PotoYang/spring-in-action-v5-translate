@@ -259,5 +259,5 @@
   * [19.3 将 JAR 文件推送到 Cloud Foundry](di-19-zhang-bu-shu-spring/19.3-jiang-jar-wen-jian-tui-song-dao-cloud-foundry.md)
   * [19.4 在 Docker 容器中运行 SpringBoot](di-19-zhang-bu-shu-spring/19.4-zai-docker-rong-qi-zhong-yun-hang-springboot.md)
   * [19.5 终章](di-19-zhang-bu-shu-spring/19.5-zhong-zhang.md)
-  * [19.6 终章](di-19-zhang-bu-shu-spring/19.6-zhong-zhang.md)
+  * [19.6 总结](di-19-zhang-bu-shu-spring/19.6-zhong-zhang.md)
 
