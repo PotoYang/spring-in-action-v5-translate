@@ -1,3 +1,11 @@
+GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
+
+Github 地址：[https://github.com/PotoYang/spring-in-action-v5-translate](https://github.com/PotoYang/spring-in-action-v5-translate)
+
+源码地址：[spring-in-action-5-samples-master](https://github.com/PotoYang/spring-in-action-v5-translate/tree/master/spring-in-action-5-samples-master)
+
+---
+
 # Spring 实战\(第 5 版\)
 
 在与 Spring 工作了近 15 年后，已经编写了这本书的 5 个版本（更不用说《Spring Boot 实战》了），你可能会认为，在为这本书撰写序言时，很难想出一些有关 Spring 的令人兴奋的新内容。但事实远非如此！
@@ -46,10 +54,3 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 | 17 - Administering Spring | 完成 |
 | 18 - Monitoring Spring with JMX | 完成 |
 | 19 - Deploying Spring | 完成 |
-
-GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
-
-Github 地址：[https://github.com/PotoYang/spring-in-action-v5-translate](https://github.com/PotoYang/spring-in-action-v5-translate)
-
-源码地址：[spring-in-action-5-samples-master](https://github.com/PotoYang/spring-in-action-v5-translate/tree/master/spring-in-action-5-samples-master)
-
