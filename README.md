@@ -28,10 +28,6 @@ Spring 5 的主要特点是对响应式编程的支持，包括 Spring WebFlux�
 
 与 Spring 合作的 15 年是激动人心的。现在我已经完成了《Spring 实战》第五版，我渴望与你们分享这份兴奋！
 
-**要是您觉得不错，打赏一下：**
-
-![](.gitbook/assets/wu-biao-ti.png)
-
 **进度：**
 
 | 章节 | 完成度 |
