@@ -1,9 +1,3 @@
-**\#### Spring 实战\(第 6 版\) 来了 \####**
-
-https://github.com/LeonLi0102/spring-in-action-v6-translate
-
----
-
 # Spring 实战\(第 5 版\)
 
 GitBook 地址：[https://potoyang.gitbook.io/spring-in-action-v5](https://potoyang.gitbook.io/spring-in-action-v5)
